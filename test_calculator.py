@@ -1,8 +1,8 @@
 """
 Unit tests for the calculator functions
 """
-# import pytest 
-from calculator import get_numbers, add_numbers
+# import pytest
+from calculator import get_numbers
 from unittest.mock import patch
 
 
