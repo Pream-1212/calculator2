@@ -18,7 +18,8 @@ def get_numbers():
             print("Invalid input please enter a number")
     return numbers
 
-  # to be implemented by Pream
+# to be implemented by Pream
+
 
 def main():
     # function to run the calculator
@@ -38,6 +39,7 @@ def main():
     print("2. Multiply")
 
     # to be added by Pream
+
 
 if __name__ == "__main__":
     main()
